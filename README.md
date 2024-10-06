@@ -9,5 +9,14 @@ Quantitative Research Intern, Capstone Investment Advisors (June 2024 to Aug 202
 
 Equity Index Options Trader, JP Morgan (June 2022 to July 2023)
 
+---
+
 ## Projects
-Coming soon... 
+Coming soon...
+
+
+--- 
+
+<div id="center" style="float: left; max-width: 30%;border: 10px"> 
+    <img src="images/oden_logo_rgb.png" />
+</div> 
