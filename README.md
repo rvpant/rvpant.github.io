@@ -1,2 +1,2 @@
-# rvpant.github.io
-Personal Github Pages site.
+# Biography
+I am a second-year masters student in the CSEM program at the [Oden Institute](https://oden.utexas.edu/) at UT Austin, and do research with [Dr. Krishna Kumar](https://www.caee.utexas.edu/people/faculty/faculty-directory/krishna-kumar) in the Geoelements lab, focused on applied deep learning in sciML and engineering problems. I graduated from Brown University with a degree in applied mathematics in 2022. Prior to graduate school, I spent one year as an options trader at JP Morgan in New York City. 
