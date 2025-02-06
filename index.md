@@ -1,4 +1,4 @@
-<!-- # Biography
+# Biography
 I am a second-year masters student in the CSEM program at the [Oden Institute](https://oden.utexas.edu/) at UT Austin, and do research with [Dr. Krishna Kumar](https://www.caee.utexas.edu/people/faculty/faculty-directory/krishna-kumar) in the Geoelements lab, focused on applied deep learning in sciML and engineering problems. I graduated from Brown University with a degree in applied mathematics in 2022.
 
 ---
@@ -18,7 +18,5 @@ Coming soon...
 --- 
 
 <div id="center" style="float: left; max-width: 30%;border: 10px"> 
-    <img src="images/oden_logo_rgb.png" />
-</div>  -->
-
-Repo to host personal website via GitHub Pages. 
+    <img src="{{ '/assets/images/oden_logo_rgb.png' | relative_url }}" alt="Oden Institute Logo">
+</div> 
