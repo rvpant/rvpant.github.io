@@ -17,6 +17,6 @@ Coming soon...
 
 --- 
 
-<div id="center" style="float: left; max-width: 30%;border: 10px"> 
+<div id="center" style="float: left; max-width: 30%;">
     <img src="{{ '/assets/images/oden_logo_rgb.png' | relative_url }}" alt="Oden Institute Logo">
-</div> 
+</div>
