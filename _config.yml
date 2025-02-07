@@ -1,11 +1,13 @@
 title: Raghav Pant
-description: CSEM masters student, Oden Institute, UT Austin
+# description: CSEM masters student, Oden Institute, UT Austin
 logo: '/assets/images/headshot_small.png'
 author: Raghav Pant
 author_email: raghav.pant@utexas.edu
 google_analytics: G-P4J6TKM133
 theme: jekyll-theme-minimal
 show_downloads: false
+resume: '/assets/documents/Raghav Pant Resume 2025.pdf'
+linkedin: 'https://www.linkedin.com/in/raghav-pant/'
 
 collections:
   projects:
