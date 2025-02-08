@@ -1,0 +1,51 @@
+/* Global Styles */
+body {
+    background-color: #f5f5f5; /* Light grey background */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Wrapper for main content */
+.wrapper {
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+/* Sidebar Styles */
+.sidebar {
+    padding: 20px;
+    background-color: #eeeeee; /* Slightly darker grey for contrast */
+    text-align: center;
+}
+
+.sidebar img {
+    max-width: 80%;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+/* Styling for Resume and GitHub Links */
+.sidebar a {
+    color: #0073e6; /* Blue hyperlink color */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.sidebar a:hover {
+    text-decoration: underline;
+}
+
+/* Quote Section */
+.quote {
+    margin-top: 30px;
+    padding: 10px;
+    font-style: italic;
+    font-size: 14px;
+    text-align: center;
+    color: #555;
+}
