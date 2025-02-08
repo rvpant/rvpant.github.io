@@ -12,14 +12,11 @@ Prior to grad school, I spent one year as an equity index options trader at JPMo
 ---
 
 ## Projects
- ### Multilingual Language Models
- A project examining the performance of leading English-native and multilingual open-source LLMs on inputs in South Asian languages like Hindi/Urdu, which are often outside of the training data of these models. A full write up is [here]() and code demos coming soon.
+ **Multilingual Language Models**: project with the goal of examining the performance of leading English-native and multilingual open-source LLMs on inputs in South Asian languages like Hindi/Urdu, which are often outside of the training data of these models. A full write up is [here]() and code demos coming soon.
 
- ### PDF Summaries Using RAG
- A toy implementation of retrieval-augmented generation and a comparison to simpler techniques like MapReduce, for summarizing research papers and preprints in PDF form. [Small writeup]() and the [repo]().
+ **PDF Summaries Using RAG**: a toy implementation of retrieval-augmented generation and a comparison to simpler techniques like MapReduce, for summarizing research papers and preprints in PDF form. [Small writeup]() and the [repo]().
 
- ### Song Similarity via CNNs
- Interested in exploring the use of deep learning for similarity scoring, I used convolutional neural nets applied to mel spectrograms of audio samples, alongside Siamese neural networks, to try to build something that can accurately measure "similarity" of audio samples.
+ **Song Similarity via CNNs**: interested in exploring the use of deep learning for similarity scoring, I used convolutional neural nets applied to mel spectrograms of audio samples, alongside Siamese neural networks, to try to build something that can accurately measure "similarity" of audio samples.
 
 
 --- 
