@@ -3,16 +3,23 @@ I am a second-year masters student in the CSEM program at the [Oden Institute](h
 
 ---
 
-## Work Experience
+## Background/Interests
 
-Quantitative Research Intern, Capstone Investment Advisors (June 2024 to Aug 2024)
+Broadly, my interests lie in applied machine learning. During my masters program, I have been lucky enough to work alongside Dr. Kumar on problems in operator learning, exploring the construction and optimization of deep learning models for PDE-based problems. I am also working on projects exploring large language models and their behavior, with a particular interest in multilingual language models. 
 
-Equity Index Options Trader, JP Morgan (June 2022 to July 2023)
+Prior to grad school, I spent one year as an equity index options trader at JPMorgan in New York, and am always interested in financial mathematics, ML in finance, and quantitative trading. 
 
 ---
 
 ## Projects
-Coming soon...
+ ### Multilingual Language Models
+ A project examining the performance of leading English-native and multilingual open-source LLMs on inputs in South Asian languages like Hindi/Urdu, which are often outside of the training data of these models. A full write up is [here]() and code demos coming soon.
+
+ ### PDF Summaries Using RAG
+ A toy implementation of retrieval-augmented generation and a comparison to simpler techniques like MapReduce, for summarizing research papers and preprints in PDF form. [Small writeup]() and the [repo]().
+
+ ### Song Similarity via CNNs
+ Interested in exploring the use of deep learning for similarity scoring, I used convolutional neural nets applied to mel spectrograms of audio samples, alongside Siamese neural networks, to try to build something that can accurately measure "similarity" of audio samples.
 
 
 --- 
