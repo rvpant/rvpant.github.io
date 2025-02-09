@@ -5,14 +5,14 @@ I am a second-year masters student in the CSEM program at the [Oden Institute](h
 
 ## Background/Interests
 
-Broadly, my interests lie in applied machine learning. During my masters program, I have been lucky enough to work alongside Dr. Kumar on problems in operator learning, exploring the construction and optimization of deep learning models for PDE-based problems. I am also working on projects exploring large language models and their behavior, with a particular interest in multilingual language models. 
+Broadly, my interests lie in applied machine learning, with my current research work focused on operator learning and related problems in physics-informed, PDE-based problems. I am also working on projects exploring large language models and their behavior, with a particular interest in multilingual language models. 
 
-Prior to grad school, I spent one year as an equity index options trader at JPMorgan in New York, and am always interested in financial mathematics, ML in finance, and quantitative trading. 
+Prior to grad school, I spent one year as an options trader in New York, and am always interested in financial mathematics, ML in finance, and quantitative trading. 
 
 ---
 
 ## Projects
- **Multilingual Language Models**: project with the goal of examining the performance of leading English-native and multilingual open-source LLMs on inputs in South Asian languages like Hindi/Urdu, which are often outside of the training data of these models. A full write up is [here]() and code demos coming soon.
+ **Multilingual Language Models**: an exploration of the performance of leading English-native and multilingual open-source LLMs on inputs in South Asian languages like Hindi/Urdu, which are often outside of the training data of these models. A more complete write up is [here]() and code demos coming soon.
 
  **PDF Summaries Using RAG**: a toy implementation of retrieval-augmented generation and a comparison to simpler techniques like MapReduce, for summarizing research papers and preprints in PDF form. [Small writeup]() and the [repo]().
 
