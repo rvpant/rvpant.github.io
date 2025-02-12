@@ -7,14 +7,14 @@ I am a second-year masters student in the CSEM program at the [Oden Institute](h
 
 Broadly, my interests lie in applied machine learning, with my current research work focused on operator learning and related problems in physics-informed, PDE-based problems. I am also working on projects exploring large language models and their behavior, with a particular interest in multilingual language models. 
 
-Prior to grad school, I spent one year as an options trader in New York, and am always interested in financial mathematics, ML in finance, and quantitative trading. 
+Prior to grad school, I spent one year as an options trader in New York, and am always interested in anything quant finance or options related.
 
 ---
 
 ## Projects
- **Multilingual Language Models**: an exploration of the performance of leading English-native and multilingual open-source LLMs on inputs in South Asian languages like Hindi/Urdu, which are often outside of the training data of these models. A more complete write up is [here]() and code demos coming soon.
+ **Multilingual Language Models**: an exploration of the performance of leading English-native and multilingual open-source LLMs on inputs in South Asian languages like Hindi/Urdu, which are often outside of the training data of these models. A more complete write up is [here](https://rvpant.github.io/multilingual/) and code demos coming soon.
 
- **PDF Summaries Using RAG**: a toy implementation of retrieval-augmented generation and a comparison to simpler techniques like MapReduce, for summarizing research papers and preprints in PDF form. [Small writeup]() and the [repo]().
+ **PDF Summaries Using RAG**: a toy implementation of retrieval-augmented generation and a comparison to simpler techniques like MapReduce, for summarizing research papers and preprints in PDF form. [Small writeup](https://rvpant.github.io/pdf_llm/) and the [repo]().
 
  **Song Similarity via CNNs**: interested in exploring the use of deep learning for similarity scoring, I used convolutional neural nets applied to mel spectrograms of audio samples, alongside Siamese neural networks, to try to build something that can accurately measure "similarity" of audio samples.
 
