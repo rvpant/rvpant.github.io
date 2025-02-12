@@ -15,3 +15,5 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+
+include: _pages
