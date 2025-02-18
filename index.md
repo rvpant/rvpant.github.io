@@ -5,9 +5,9 @@ I am a second-year masters student in the CSEM program at the [Oden Institute](h
 
 ## Background/Interests
 
-Broadly, my interests lie in applied machine learning, with my current research work focused on operator learning and related problems in physics-informed, PDE-based problems. I am also working on projects exploring large language models and their behavior, with a particular interest in multilingual language models. 
+I am broadly interested in applied machine learning, with my current research work focused on operator learning and related problems in physics-informed, PDE-based machine learning. I am also working on projects exploring large language models and their behavior, with a particular interest in multilingual language models. 
 
-Prior to grad school, I spent one year as an options trader in New York, and am always interested in anything quant finance or options related.
+Prior to grad school, I spent one year as an options trader in New York, and enjoy most topics in quant finance and options. I'm interested in the application of data science and machine learning to trading and finance.
 
 ---
 
