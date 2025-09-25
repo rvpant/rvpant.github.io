@@ -1,5 +1,5 @@
 # Biography
-I am currently at JPMorgan in NYC as part of the CIB AI Accelerator, where I work with JPM AIR to design and build AI solutions for the sales and trading business. I received my MS from the CSEM program at the [Oden Institute](https://oden.utexas.edu/) at UT Austin, where I did research with [Dr. Krishna Kumar](https://www.caee.utexas.edu/people/faculty/faculty-directory/krishna-kumar) in the Geoelements lab, focused on applied deep learning in sciML and engineering problems. Prior to that, I graduated from Brown University with my BS in applied mathematics in 2022.
+I am currently at JPMorgan in NYC as part of the CIB AI Accelerator, where I help to design and build AI solutions for the sales and trading business. I received my MS from the CSEM program at the [Oden Institute](https://oden.utexas.edu/) at UT Austin, where I did research with [Dr. Krishna Kumar](https://www.caee.utexas.edu/people/faculty/faculty-directory/krishna-kumar) in the Geoelements lab, focused on applied deep learning in sciML and engineering problems. Prior to that, I graduated from Brown University with my BS in applied mathematics in 2022.
 
 ---
 
