@@ -5,7 +5,7 @@ I am currently at JPMorgan in NYC as part of the CIB AI Accelerator, where I hel
 
 ## Background/Interests
 
-I am broadly interested in applied machine learning -- including scientific machine learning (operator learning and related problems) as well as the foundations of modern LLMs. In particular, I have become interested in questions around multilingual LLMs, from the data distribution in pretraining through the impact of finetuning and the best way to evaluate multilingual LLM capabilities. See below for an overview of my projects at that intersection; I believe that respnsible and aligned AI in the future requires a thorough understanding of models from a sociolinguistic standpoint.
+I am broadly interested in applied machine learning -- including scientific machine learning (operator learning and related problems) as well as the foundations of modern LLMs. In particular, I have become interested in questions around multilingual LLMs, from the data distribution in pretraining through the impact of finetuning and the best way to evaluate multilingual LLM capabilities. See below for an overview of my projects at that intersection; I believe that respnsible and aligned AI in the future requires a thorough understanding of models from a linguistic and sociocultural standpoint.
 
 I'm currently interested in the application of data science and machine learning to trading and finance, specifically the growing role of generative AI in finance. Prior to grad school, I spent one year on an options trading desk at JPMorgan, and still love quantitative finance and options theory.  
 
@@ -17,7 +17,7 @@ Outside of technical topics, I am a student of Urdu poetry and literature, and i
 
 Below are links to some project highlights as well as poorly structured thoughts on related technical topics of interest.
 
- **Is there a problem with multilingual LLM evals?**: some thoughts on the current state of LLM evals designed for multilingual applications -- somewhere between a literature review, exploratory project, and unstructured questions [here]().
+ **Thoughts on multilingual LLM evals**: some thoughts on the current state of LLM evals designed for multilingual applications -- somewhere between a literature review, exploratory project, and unstructured questions [here]().
 
  **Multilingual LLMs + mech interp**: a series of experiments on English-dominant and multilingual LLMs, leveraging methods from mechanistic interpretability and frontier computational lingustics research to probe linguistic properties and structure in these models. To do so, I leverage the unique South Asian language of Hindi/Urdu, which is often outside of the training data of these models and allows for some interesting "minimal pair"-style experiments. A more complete write up is [here](https://rvpant.github.io/multilingual/) with code demos coming soon.
 
